@@ -96,8 +96,8 @@ Doze-Studio-Practise/
 
 1. **Clone the repository**
    ```bash
-   git clone [repository-url]
-   cd Doze-Studio-Practise
+   git clone https://github.com/prashantkoirala465/Interactive-Hero-Canvas-Animation
+   cd Interactive-Hero-Canvas-Animation
    ```
 
 2. **Open in browser**
